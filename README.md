@@ -1,6 +1,6 @@
 # RsExplor - 终端文件管理器
 
-![演示截图](./docs/screenshot.png) <!-- 可后续添加 -->
+![演示截图](./docs/screenshot.jpg) <!-- 可后续添加 -->
 
 一个基于 ncurses 的轻量级终端文件管理器，专为 Termux 和 Linux 终端设计。
 
