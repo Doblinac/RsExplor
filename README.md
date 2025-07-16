@@ -28,5 +28,6 @@ git clone https://github.com/Doblinac/RsExplor.git
 cd RsExplor
 
 # 编译安装
-clang RsExplor.c -lncurses -o RsExplor
+初次编译： make
+第二次编译： make clean && make
 ```
