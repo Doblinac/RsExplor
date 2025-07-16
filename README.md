@@ -1,8 +1,10 @@
 # RsExplor - 终端文件管理器
 
-![演示截图](./docs/screenshot.jpg) <!-- 可后续添加 -->
+![演示截图](./docs/screenshot.jpg) 
 
-一个基于 ncurses 的轻量级终端文件管理器，专为 Termux 和 Linux 终端设计。
+一个基于 ncurses 的轻量级终端文件管理器，专为 Termux 设计。
+
+功能是用这个灵活的文件管理器管理放在安卓文件夹中的 BASH 脚本。
 
 ## 功能特性
 
@@ -15,7 +17,7 @@
 
 ## 安装要求
 
-- Linux 或 Termux 环境
+- Termux 环境
 - ncurses 库
 - 基本 Unix 工具（tar, unzip 等）
 
